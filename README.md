@@ -35,7 +35,14 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Run the Django server
+### 4. Make migrations
+
+```
+python3 manage.py makemigrations
+python3 manage.py migrate
+```
+
+### 5. Run the Django server
 
 ```
 python manage.py runserver
