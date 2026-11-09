@@ -51,5 +51,7 @@ python manage.py runserver
 # Author Information
 
 **Candidate:** Moaz Haider
+
 **Date:** November 2026
+
 **Company:** Elanco Animal Health
