@@ -13,6 +13,10 @@ This project is built using **Python** and **Django** with a **Model-View-Contro
 | **HTTP Client** | **`requests`**                                   | Reliable HTTP client with timeout management and status handling.                                                       |
 | **Testing**     | **Django Test Framework (`TestCase`, `Client`)** | Comprehensive test coverage across models, services, filters, reports, and HTTP responses.                              |
 
+# Video
+
+[![Video](image.png)](presentation.mp4)
+
 # How to Run the Project
 
 ### 1. Clone the project
