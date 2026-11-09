@@ -18,8 +18,8 @@ This project is built using **Python** and **Django** with a **Model-View-Contro
 ### 1. Clone the project
 
 ```
-git clone ...
-cd ...
+git clone https://github.com/M0-7/Sightings.git
+cd Sightings
 ```
 
 ### 2. Create and activate a virtual environment
