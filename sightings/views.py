@@ -297,7 +297,6 @@ DASHBOARD_HTML = """<!DOCTYPE html>
             </div>
             <div style="display: flex; gap: 8px;">
                 <button class="btn btn-outline" onclick="fetchSummary()">🔄 Refresh</button>
-                <button class="btn" onclick="triggerSync()">⚡ Sync API</button>
             </div>
         </header>
 
